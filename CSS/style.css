@@ -214,7 +214,7 @@ body{
       grid-column: 1/4;
     }
   }
-  @media screen and (min-width: 1200px) {
+  @media screen and (min-width: 1200px){
     body {
       min-height: 100svh;
       display: flex;
@@ -269,3 +269,4 @@ body{
       font-size: 50px;
       font-weight: lighter;
     }
+  }
